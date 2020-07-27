@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-What should I put in here?
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/VirgoJhang/count.svg" />
+</p>
 
 <!--
 **VirgoJhang/VirgoJhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
