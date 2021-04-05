@@ -9,6 +9,10 @@
 
 Virgo Jhang, a computer science newcomer, currently working as a C++ programmer. 
 
+![VirgoJhang's github stats](https://github-readme-stats.vercel.app/api?username=VirgoJhang&count_private=true&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoJhang&layout=compact)
+
 ## Get in touch
 
 [Twitter](https://twitter.com/theVirgoJhang) [Mastondon](https://mastodon.social/@VirgoJhang) [E-mail](mailto:virgojhang@cingkong.org)
